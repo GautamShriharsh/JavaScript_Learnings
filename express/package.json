@@ -1,0 +1,11 @@
+{
+  "name": "js_learnings",
+  "version": "1.0.0",
+  "description": "I created this package while learning node and express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shriharsh",
+  "license": "ISC"
+}
