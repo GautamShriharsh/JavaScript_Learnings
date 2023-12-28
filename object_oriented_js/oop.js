@@ -28,4 +28,4 @@ const userTwo = new User("Rohan", 24, false)
 console.log(userOne);
 console.log(userTwo);
 
- 
+// a new object/instance is created whenever "new" keyword is used
